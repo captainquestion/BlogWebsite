@@ -1,6 +1,6 @@
 # Daily Journal
 
-Daily Journal is a demo blog website that is deployed to Heroku.
+Daily Journal is a demo blog website that is deployed to Heroku. Go ahead and Compose !
 
 The site website made by utilizing EJS, HTML, CSS, JavaScript, Bootstrap as well as MongoDB Atlas, NodeJS and NoSQL(MongoDB) for back-end.
 
