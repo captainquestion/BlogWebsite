@@ -13,17 +13,17 @@ Main Page (https://hidden-beach-22429.herokuapp.com/)
 
 ![](screenshots/1.png)
 
-Compose (https://afternoon-scrubland-37013.herokuapp.com/compose)
+Compose (https://hidden-beach-22429.herokuapp.com/compose)
 
 ![](screenshots/2.png)
 
 ![](screenshots/3.png)
 
-About 
+About (https://hidden-beach-22429.herokuapp.com/about)
 
 ![](screenshots/4.png)
 
-Contact 
+Contact (https://hidden-beach-22429.herokuapp.com/contact)
 
 ![](screenshots/5.png)
 
